@@ -1344,10 +1344,10 @@ section {
         font-size: 14px;
     }
 
-    .card-1 { left: 10px; top: 10px; }
-    .card-2 { right: 10px; top: 30px; }
-    .card-3 { left: 30px; bottom: 60px; }
-    .card-4 { right: 20px; bottom: 10px; }
+        .card-1 { left: 5%; top: 0; }
+    .card-2 { right: 5%; top: 40px; }
+    .card-3 { left: 5%; bottom: 0; }
+    .card-4 { right: 5%; bottom: 40px; }
     .contact-form-wrapper {
         padding: 25px;
     }
